@@ -6,7 +6,7 @@ aliases:
   - R. Krueger
   - Rob Krueger
 links:
-  home-page: [https://janesmith.com](https://kruegert.github.io/)
+  home-page: https://kruegert.github.io
   orcid: 0000-0001-8713-9213
 ---
 
