@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are part of the School of Engineering at NYU Tandon at Brooklyn, NY 11201, USA. The lab is located on the Brooklyn campus on the 3rd floor of the  370 Jay St. Building Card access is required for entry to lab spaces.
 
 {%
   include button.html
