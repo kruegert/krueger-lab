@@ -1,9 +1,9 @@
 ---
 ---
 
-# kruegert's Website
+# The Krueger Lab
 
-An engaging 1-3 sentence description of your lab.
+The Krueger Lab is a team of researchers at the Tandon School of Engineering at New York University (NYU) dedicated to research, develop and evaluate novel visualization and visual analytics approaches that allow to combine human domain knowledge and guidance with novel computer vision approaches. We focus on spatial data analysis challenges raging from biomedical to geographical applications.
 
 {% include section.html %}
 
