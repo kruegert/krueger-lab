@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We plan to form a diverse, highly engaged, and collaborative team of computer scientists, designers, and developers.. We foster an environment where team members are treated equally, and where we respect and admire our differences. We are currently looking for PhD students (apply for 2024), research assistants, and part-time software developers.
 
 {% include section.html %}
 
