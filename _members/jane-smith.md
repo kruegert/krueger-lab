@@ -1,12 +1,12 @@
 ---
-name: Jane Smith
+name: Robert Krueger
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - R. Krueger
+  - Rob Krueger
 links:
-  home-page: https://janesmith.com
+  home-page: [https://janesmith.com](https://kruegert.github.io/)
   orcid: 0000-0001-8713-9213
 ---
 
