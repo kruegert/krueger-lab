@@ -11,7 +11,7 @@ The Krueger Lab is a team of researchers at the Tandon School of Engineering at 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See the latest published research by our group published at internationally reowned journals and scientific conference proceedings.
 
 {%
   include button.html
@@ -34,8 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Explore our current and past projects and grant fundings and learn about their motivation, aims, and impacts.
 {%
   include button.html
   link="projects"
@@ -59,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Get to know the people forming the krueger lab and explore job openings. We are hiring! 
 
 {%
   include button.html
