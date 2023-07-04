@@ -26,7 +26,7 @@ See the latest published research by our group published at internationally reow
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
