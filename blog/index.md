@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: News
 nav:
   order: 4
   tooltip: Musings and miscellany
@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here we post the latest news about our research and our team including publications, grant proposal approvals, presentations, and other achievements.
 
 {% include section.html %}
 
