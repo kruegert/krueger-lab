@@ -9,8 +9,6 @@ nav:
 
 We plan to form a diverse, highly engaged, and collaborative team of computer scientists, designers, and developers.. We foster an environment where team members are treated equally, and where we respect and admire our differences. We are currently looking for PhD students (apply for 2024), research assistants, and part-time software developers.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_P_k6ev8tNdR1qB6DskcWV_WfpsgOm5_YKFDHgZKAPXHAvg/viewform?embedded=true" width="1200" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
@@ -26,9 +24,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_P_k6ev8tNdR1qB6DskcWV_WfpsgOm5_YKFDHgZKAPXHAvg/viewform?embedded=true" width="1200" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 {% endcapture %}
 
