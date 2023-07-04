@@ -1,5 +1,5 @@
 ---
-title: Example post 1
+title: Lab Website is Online!
 author: Robert Krueger
 tags:
   - webiste
