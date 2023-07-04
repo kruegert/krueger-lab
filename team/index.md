@@ -16,9 +16,7 @@ We plan to form a diverse, highly engaged, and collaborative team of computer sc
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are currently looking for PhD students (apply for 2024), research assistants, and part-time software developers. If you are interested in a position (long-term or short-term) please do not hesitate to contact us.
 
 {% include section.html %}
 
