@@ -40,8 +40,8 @@
 - title: Scalable Multiplex and Multi-Resolution Viewers
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: 
+  description: We develop scalable 2D and 3D visualization framework for increasingly large terrabyte sized multiplex imaging data.
+  repo: 
   tags:
     - software
