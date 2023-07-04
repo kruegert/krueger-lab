@@ -1,25 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: 10.1101/2022.05.09.490039
-  title: 'Visinity: Visual Spatial Neighborhood Analysis for Multiplexed Tissue Imaging Data'
+- id: doi:10.1093/nar/gkad289
+  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
+    and user-created collections of genes'
   authors:
-  - Warchol, Simon#
-  - Krueger, Robert#
-  - Nirmal, Ajit Johnson
-  - Gaglia, Giorgio
-  - Jessup, Jared
-  - Ritch, Cecily C
-  - Hoffer, John
-  - Muhlich, Jeremy
-  - Burger, Megan
-  - Jacks, Tyler L
-  - Santagata, Sandro
-  - Sorger, Peter K
-  - Pfister, H.
-  publisher: IEEE Transaction on Visualization and Computer Graphics
-  date: '2022'
-  link: https://vcg.seas.harvard.edu/publications/visinity
-  orcid: 0000-0002-6468-8356
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.01.05.522941
