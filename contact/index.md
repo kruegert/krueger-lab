@@ -34,7 +34,7 @@ We are part of the School of Engineering at NYU Tandon at Brooklyn, NY 11201, US
 
 {% endcapture %}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqSgZJsX4e3DAc_7QG8vQ2_BQ2buIEcaUXW1AcNDTKYsz3Uw/viewform?embedded=true" width="1000" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqSgZJsX4e3DAc_7QG8vQ2_BQ2buIEcaUXW1AcNDTKYsz3Uw/viewform?embedded=true" width="1000" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> 
 
 {% include cols.html col1=col1 col2=col2 %}
 
