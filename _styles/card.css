@@ -4,7 +4,7 @@
   align-items: center;
   flex-direction: column;
   width: 700px;
-  max-width: calc(100% - 20px - 20px);
+  max-width: calc(100% - 10px - 10px);
   margin: 20px;
   background: var(--background);
   border-radius: var(--rounded);
@@ -18,7 +18,7 @@
 }
 
 .card-image img {
-  aspect-ratio: 3/2;
+  aspect-ratio: 4/2;
   object-fit: cover;
   width: 100%;
 }
