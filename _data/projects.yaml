@@ -21,7 +21,7 @@
 - title: Information Visualization
   subtitle: Novel Encodings and Interaction Mechanisms
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description:  We design and evaluate novel visual encodings and interaction mechanismns for challenging data types, tasks, and workflows, tailored to domain-specific needs.
   repo: 
   tags:
@@ -31,13 +31,13 @@
 - title: Steerable Machine Learning
   subtitle: Visual Interfaces to Steer and Understand Machine Learning
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: 
   tags:
     - software
 
-- title: Cool Web Server
+- title: Scalable Multiplex and Multi-Resolution Viewers
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
