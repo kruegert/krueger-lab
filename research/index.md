@@ -13,7 +13,8 @@ The krueger lab designs and develops scalable visual analytics approaches. Visua
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Visinity: Visual Spatial Neighborhood Analysis for Multiplexed Tissue Imaging
+    Data" style="rich" %}
 
 {% include section.html %}
 
