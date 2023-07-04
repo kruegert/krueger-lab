@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are part of the School of Engineering at NYU Tandon at Brooklyn, NY 11201, USA. The lab is located on the Brooklyn campus on the 3rd floor of the  370 Jay St. Building Card access is required for entry to lab spaces.
+We are part of the School of Engineering at NYU Tandon at Brooklyn, NY 11201, USA. The lab is located on the Brooklyn campus on the 11th floor of the  370 Jay St. Building Card access is required for entry to lab spaces.
 
 {%
   include button.html
@@ -41,21 +41,15 @@ We are part of the School of Engineering at NYU Tandon at Brooklyn, NY 11201, US
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+krueger lab - Scalable Data Visualization and Visual Analytics
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+New York University, Tandon School of Engineering
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+11th Floor, 370 Jay St, Brooklyn, NY 11201, USA
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
