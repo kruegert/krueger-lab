@@ -30,9 +30,9 @@
 
 - title: Steerable Machine Learning
   subtitle: Visual Interfaces to Steer and Understand Machine Learning
-  image: images/photo.jpg
+  image: images/ml.jpg
   link: 
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Steerable and interpretable machine learning enabled by highly interactive interfaces allow to configure, train, adjust, and evaluate complex models.
   repo: 
   tags:
     - software
