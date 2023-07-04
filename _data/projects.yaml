@@ -3,17 +3,17 @@
   group: featured
   image: images/biomedical.jpg
   link: https://github.com/
-  description: Our biomedical research focuses on methods for spatial and spatially-referenced multivariate data as they appear in, e.g., biological and geographical application areas. Our work in the biomedical field enables human-in-the-loop data analysis of increasingly large and complex molecular data (imaging and spatial omics) acquired for biomedical research. We work closely with biomedical users to survey their goals and requirements, iteratively develop visualization prototypes, and conduct hands-on studies for qualitative and quantitative evaluation.
+  description: Our work in the biomedical field enables human-in-the-loop data analysis of increasingly large and complex molecular data (imaging and spatial omics) acquired for biomedical research, notable to for cancer analysis, diagnosis, and therapy. We work closely with biomedical users to survey their goals and requirements, iteratively develop visualization prototypes, and conduct hands-on studies for qualitative and quantitative evaluation.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Geographical Visualization
+  subtitle: Spatio-temporal Analysis of Urban Data
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Our geographical visulization research focuses on large and time-varying urban data to better understand urban environments and human factors. We develop and evaluate large-scale visualization and analytics approaches that combine classical geographical data (e.g. maps, satellite imagery) with spatially referenced data, e.g. from social media. 
   repo: greenelab/lab-website-template
   tags:
     - resource
