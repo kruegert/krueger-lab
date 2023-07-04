@@ -20,10 +20,10 @@ We are currently looking for PhD students (apply for 2024), research assistants,
 
 {% include section.html %}
 
-{% capture content %}
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_P_k6ev8tNdR1qB6DskcWV_WfpsgOm5_YKFDHgZKAPXHAvg/viewform?embedded=true" width="1200" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-{% endcapture %}
+
 
 {% include grid.html style="square" content=content %}
