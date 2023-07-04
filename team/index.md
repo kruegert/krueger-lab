@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We plan to form a diverse, highly engaged, and collaborative team of computer scientists, designers, and developers.. We foster an environment where team members are treated equally, and where we respect and admire our differences. We are currently looking for PhD students (apply for 2024), research assistants, and part-time software developers. The contact form can be found at the bottom of this page.
+We plan to form a diverse, highly engaged, and collaborative team of computer scientists, designers, and developers.. We foster an environment where team members are treated equally, and where we respect and admire our differences. We are currently looking for PhD students (apply for 2024), research assistants, and part-time software developers.
 
 {% include section.html %}
 
@@ -16,7 +16,7 @@ We plan to form a diverse, highly engaged, and collaborative team of computer sc
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We are currently looking for PhD students (apply for 2024), research assistants, and part-time software developers. If you are interested in a position (long-term or short-term) please do not hesitate to contact us.
+We are currently looking for PhD students (apply for 2024), research assistants, and part-time software developers. If you are interested in a position (long-term or short-term) please do not hesitate to contact us. The contact form can be found at the bottom of this page.
 
 
 {% include section.html %}
