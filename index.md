@@ -11,7 +11,7 @@ The Krueger Lab is a team of researchers at the Tandon School of Engineering at 
 
 {% capture text %}
 
-See the latest published research by our group published at internationally reowned journals and scientific conference proceedings.
+Browse and search for the latest published research by our group published in internationally reowned journals, scientific conference proceedings, and open source platforms.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ See the latest published research by our group published at internationally reow
 
 {% capture text %}
 
-Explore our current and past projects and grant fundings and learn about their motivation, aims, and impacts.
+Explore our research focus areas for visualization and visual analytics (integrating machine learning), ranging from biomedical and geographical applications. We work closely with domain experts to design, develop, and evaluate scalable approaches, prototypes, and full-fledged open-source software.
 {%
   include button.html
   link="projects"
@@ -58,7 +58,7 @@ Explore our current and past projects and grant fundings and learn about their m
 
 {% capture text %}
 
-Get to know the people forming the krueger lab and explore job openings. We are hiring! 
+Get to know postdocs, phd students, developers and research assistants forming the krueger lab. We are hiring! Contact us via the web form if you are interested.
 
 {%
   include button.html
