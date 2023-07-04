@@ -51,7 +51,7 @@
 
 - title: Scalable Multiplex and Multi-Resolution Viewers
   subtitle: Web-based image rendering as a framework
-  image: images/veiwer.jpg
+  image: images/viewer.jpg
   link: 
   description: We develop scalable 2D and 3D visualization framework for increasingly large terrabyte sized multiplex imaging data.
   repo: 
