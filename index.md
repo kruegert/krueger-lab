@@ -48,7 +48,7 @@ Explore our current and past projects and grant fundings and learn about their m
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
