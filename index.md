@@ -3,7 +3,7 @@
 
 # The Krueger Lab
 
-The Krueger Lab is a team of researchers at the Tandon School of Engineering at New York University (NYU) dedicated to research, develop and evaluate novel visualization and visual analytics approaches that allow to combine human domain knowledge and guidance with novel computer vision approaches. We focus on spatial data analysis challenges raging from biomedical to geographical applications.
+The Krueger Lab is a team of researchers at the Tandon School of Engineering at New York University (NYU) dedicated to research, develop, and evaluate novel visualization and visual analytics approaches that allow to combine human domain knowledge and guidance with novel computer vision approaches. We focus on spatial data analysis challenges raging from biomedical to geographical applications. Our field of expertise is on large imaging and linked heterogeneous spatially referenced data.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ The Krueger Lab is a team of researchers at the Tandon School of Engineering at 
 
 {% capture text %}
 
-Browse and search for the latest published research by our group published in internationally reowned journals, scientific conference proceedings, and open source platforms.
+Browse and search for the latest published research by our group published in internationally reowned journals, scientific conference proceedings, and open source platforms. All published wirk will be listed here and is frequently updated.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Browse and search for the latest published research by our group published in in
 
 {% capture text %}
 
-Explore our research focus areas for visualization and visual analytics (integrating machine learning), ranging from biomedical and geographical applications. We work closely with domain experts to design, develop, and evaluate scalable approaches, prototypes, and full-fledged open-source software.
+Explore our research areas for visualization and visual analytics (integrating machine learning), ranging from biomedical to geographical applications. We work closely with domain experts to design, develop, and evaluate scalable approaches, prototypes, and full-fledged open-source software. 
 {%
   include button.html
   link="projects"
