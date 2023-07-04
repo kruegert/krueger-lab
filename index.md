@@ -73,7 +73,7 @@ Get to know the people forming the krueger lab and explore job openings. We are 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
