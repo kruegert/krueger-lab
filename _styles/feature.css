@@ -36,13 +36,13 @@
   flex-direction: row-reverse;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1600px) {
   .feature {
     flex-direction: column !important;
   }
   .feature-image {
     width: unset;
-    max-width: 400px;
+    max-width: 800px;
   }
 }
 
