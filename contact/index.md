@@ -41,15 +41,15 @@ We are part of the School of Engineering at NYU Tandon at Brooklyn, NY 11201, US
 {% include section.html dark=true %}
 
 {% capture col1 %}
-krueger lab - Scalable Data Visualization and Visual Analytics
+krueger lab - Scalable Visualization & VA
 {% endcapture %}
 
 {% capture col2 %}
-New York University, Tandon School of Engineering
+NYU Tandon School of Engineering
 {% endcapture %}
 
 {% capture col3 %}
-11th Floor, 370 Jay St, Brooklyn, NY 11201, USA
+370 Jay St, Brooklyn, NY 11201, USA
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
