@@ -21,7 +21,7 @@ We are currently looking for PhD students (apply for 2024), research assistants,
 
 {% include section.html %}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_P_k6ev8tNdR1qB6DskcWV_WfpsgOm5_YKFDHgZKAPXHAvg/viewform?embedded=true" width="1000" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_P_k6ev8tNdR1qB6DskcWV_WfpsgOm5_YKFDHgZKAPXHAvg/viewform?embedded=true" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 {% capture content %}
